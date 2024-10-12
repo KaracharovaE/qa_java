@@ -2,7 +2,7 @@ import com.example.Feline;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class GetFamilyTest {
+public class GetFamilyFelineTest {
 
     @Test
     public void testGetFamily(){

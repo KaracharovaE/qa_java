@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 import static org.mockito.Mockito.mock;
 
 @RunWith(Parameterized.class)
-public class HasManeTest {
+public class HasManeLionTest {
 
     @Parameterized.Parameter
     public String sex;
